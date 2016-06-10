@@ -1,0 +1,30 @@
+/*!
+ * Start Bootstrap - Thumbnail Gallery HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+.thumb {
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+
+footer {
+    margin: 50px 0;
+}
+h1 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight:700;
+    font-size:5rrrrrrrrrr0px;
+    color: #FF8000;
+}
+h2 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight:700;
+    font-size:15px;
+}
+h3 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight:700;
+    font-size:20px;
+}
